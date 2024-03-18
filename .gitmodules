@@ -1,0 +1,3 @@
+[submodule "authorized-project"]
+	path = authorized-project
+	url = git@github.com:daniellle/authorized-project.git
